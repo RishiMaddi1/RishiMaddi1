@@ -4,7 +4,10 @@ Welcome to my GitHub! I'm a passionate developer from Bengaluru, India, explorin
 
 ---
 
-![download (2)](https://github.com/user-attachments/assets/47589a05-c9cf-4fe3-b6d6-cb2c112fa078)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47589a05-c9cf-4fe3-b6d6-cb2c112fa078" alt="download (2)">
+</p>
+
 
 ## About Me
 
