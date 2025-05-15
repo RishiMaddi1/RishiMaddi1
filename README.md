@@ -32,7 +32,8 @@ Welcome to my GitHub! I'm a passionate developer from Bengaluru, India, explorin
 
 ## Let's Connect
 
-- Website: [aikipedia.in](https://aikipedia.in)  
+- Website: [aikipedia.in](https://aikipedia.in)
+- Email: [maddi.rishi.dhaneswar@gmail.com](mailto:maddi.rishi.dhaneswar@gmail.com)
 - LinkedIn: [linkedin.com/in/rishi-maddi](https://linkedin.com/in/rishi-maddi)  
 - Instagram: [@rishi__maddi](https://www.instagram.com/rishi__maddi?igsh=OHVrank0eGRjd3ph)  
 
