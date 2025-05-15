@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer from Bengaluru, India, explorin
 ## About Me
 
 - Currently working on: [aikipedia.in](https://aikipedia.in) – an AI access platform with a credit-based model.
-- Tech enthusiast with a strong foundation in Java, Python, and full-stack development.
+- Tech enthusiast with a strong foundation in Python, Java and full-stack development.
 - Passionate about AI, compression techniques, edge computing, and assistive technology.
 - Building apps that merge real-world problems with intelligent systems.
 - I enjoy experimenting — from Reinforcement learning to NLP to JAVA game development
