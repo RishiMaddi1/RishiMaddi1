@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a passionate developer from Bengaluru, India, explorin
 - **AI/ML & Deep Learning:** transformers, LLMs, reinforcement learning, machine learning, deep learning  
 - **Databases:** PostgreSQL, Firebase, MongoDB, Redis  
 - **Backend & APIs:** Flask, Node.js, REST APIs, Firebase Auth  
-- **Tools & Platforms:** Git, Docker, VS Code, Postman, Google Colab  
+- **Tools & Platforms:** Git, Docker, VS Code, Postman 
 
 ---
 
