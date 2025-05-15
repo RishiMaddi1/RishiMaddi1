@@ -33,4 +33,4 @@ Welcome to my GitHub! I'm a passionate developer from Bengaluru, India, explorin
 
 ---
 
-> "Code should not just work — it should speak." – Rishi Maddi
+> "I turn abstract models into concrete impact." – Rishi Maddi
