@@ -18,6 +18,15 @@ Welcome to my GitHub! I'm a final-year B.Tech (AI & Data Science) student at Amr
 
 ---
 
+## Experience
+
+- **SDE Intern** — Bajaj Finserv Health Limited, Bengaluru *(Sep 2025 – Mar 2026)*
+- **Applied AI & Automation Intern** — PavePilot AI, Delaware USA *(Jun 2025 – Jul 2025)*
+- **Full Stack Developer Intern** — PavePilot AI, Delaware USA *(Aug 2024 – Sep 2024)*
+- **Full Stack Developer Intern** — Thrupera *(Jul 2024 – Sep 2024)*
+
+---
+
 ## Tech Stack
 
 - **Languages:** Python, Java, JavaScript, Dart, C, PostgreSQL, PL/SQL
