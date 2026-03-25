@@ -1,6 +1,5 @@
 # Hey there, I'm Maddi Rishi Dhaneshwar
 Welcome to my GitHub! I'm a final-year B.Tech (AI & Data Science) student at Amrita School of Engineering, Bengaluru. I build systems at the intersection of AI, distributed computing, and full-stack development — from RL-powered database optimizers to SaaS platforms democratizing AI access in India.
-
 ---
 
 <p align="center">
@@ -24,6 +23,16 @@ Welcome to my GitHub! I'm a final-year B.Tech (AI & Data Science) student at Amr
 - **Applied AI & Automation Intern** — PavePilot AI, Delaware USA *(Jun 2025 – Jul 2025)*
 - **Full Stack Developer Intern** — PavePilot AI, Delaware USA *(Aug 2024 – Sep 2024)*
 - **Full Stack Developer Intern** — Thrupera *(Jul 2024 – Sep 2024)*
+
+---
+## Live Projects
+
+| | Project | URL |
+|---|---|---|
+| ![](https://img.shields.io/badge/-live-639922?style=flat-square) | **Aikipedia** — AI access SaaS | [aikipedia.in](https://aikipedia.in/) |
+| ![](https://img.shields.io/badge/-live-378ADD?style=flat-square) | **SQLLens** — SQL tool | [sqllens.pages.dev](https://sqllens.pages.dev/) |
+| ![](https://img.shields.io/badge/-live-BA7517?style=flat-square) | **Portfolio** | [rishimaddi.pages.dev](https://rishimaddi.pages.dev/) |
+| ![](https://img.shields.io/badge/-live-1D9E75?style=flat-square) | **CloudRAG** — Distributed RAG | [cloudrag.pages.dev](https://cloudrag.pages.dev/) |
 
 ---
 
