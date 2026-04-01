@@ -1,5 +1,5 @@
 # Hey there, I'm Maddi Rishi Dhaneshwar
-Welcome to my GitHub! I'm a final-year B.Tech (AI & Data Science) student at Amrita School of Engineering, Bengaluru. I build systems at the intersection of AI, distributed computing, and full-stack development — from RL-powered database optimizers to SaaS platforms democratizing AI access in India.
+Welcome to my GitHub! I'm a third-year B.Tech (AI & Data Science) student at Amrita School of Engineering, Bengaluru. I build systems at the intersection of AI, distributed computing, and full-stack development — from RL-powered database optimizers to SaaS platforms democratizing AI access in India.
 ---
 
 <p align="center">
